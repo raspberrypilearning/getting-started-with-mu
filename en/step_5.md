@@ -26,6 +26,8 @@ Your program will run and the message `hello world` will be displayed.
 
 + Stop you program by clicking `Stop`.
 
+### Multiple programs
+
 You can have multiple programs open at the same time using the tabs.
 
 + Click `New` to create a new program.

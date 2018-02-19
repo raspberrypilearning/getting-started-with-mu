@@ -45,7 +45,7 @@ for count in range(5,1,-1):
     print(count)
 ```
 
-When run, it displays:
+But when it runs, it only counts down to 2:
 
 ```
 count down
@@ -88,6 +88,8 @@ There is also a `Debug Inspector` window of the right of the code which shows th
 + Press `Step Over` to run the next line of code.
 
 The count variable will appear in the debug inspector.
+
+![mu debug inspector](images/mu_debugger2.png)
 
 + Keep pressing `Step Over` to run through each line of the program, you will see that `count` never reaches `1` because the `for` loop in the program should go to `0`:
 

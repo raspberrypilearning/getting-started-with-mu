@@ -12,7 +12,7 @@ title: Raspberry Pi
 
 + Open a terminal
 
-![pi open terminal](images/pi-open-terminal)
+![pi open terminal](images/pi-open-terminal.PNG)
 
 + Use the following command to install Mu
 
@@ -22,7 +22,7 @@ sudo apt-get install mu-editor
 
 ![pi install mu](images/pi_install_mu.gif)
 
-+ Start Mu by clicking Programming, Mu on the menu.
++ Start Mu by selecting `Programming`, `Mu` from the menu.
 
 --- /collapse ---
 
@@ -50,7 +50,7 @@ Mu can be installed on Windows using either:
 pip3 install mu-editor
 ```
 
-![windows install mu](images/windows_install_mu.gif)
+![windows install mu](images/windows_mu_installer.gif)
 
 If you experience problems, have a look at [Using pip on Windows](https://projects.raspberrypi.org/en/projects/using-pip-on-windows).
 

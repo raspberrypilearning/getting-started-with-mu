@@ -10,3 +10,4 @@ Try out some Python projects using Mu:
  
  + [Create a team chooser](https://projects.raspberrypi.org/en/projects/team-chooser)
  
+Check out the [Mu documentation](https://mu.readthedocs.io/) to learn more about this beginners IDE.
