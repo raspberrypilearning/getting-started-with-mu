@@ -50,7 +50,7 @@ Mu can be installed on Windows using either:
 pip3 install mu-editor
 ```
 
-![windows install mu](images/windows_mu_installer.gif)
+![windows install mu](images/windows_install_mu.gif)
 
 If you experience problems, have a look at [Using pip on Windows](https://projects.raspberrypi.org/en/projects/using-pip-on-windows).
 
@@ -76,7 +76,7 @@ The Mu Installer contains all you need to get started programming with Python.
 
 + Mu will now install, click `Finish` when complete.
 
-![windows install mu](images/windows_install_mu.gif)
+![windows install mu](images/windows_mu_installer.gif)
 
 + Run Mu by selecting `Mu` from the Start menu.
 
