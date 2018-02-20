@@ -50,7 +50,7 @@ Mu can be installed on Windows using either:
 pip3 install mu-editor
 ```
 
-![windows install mu](images/windows_install_mu.gif)
+![windows pip install mu](images/windows_install_mu.gif)
 
 If you experience problems, have a look at [Using pip on Windows](https://projects.raspberrypi.org/en/projects/using-pip-on-windows).
 
@@ -100,7 +100,9 @@ title: Apple Mac OS
 pip3 install mu-editor
 ```
 
-+ Run My by entering `mu` at the command prompt.
+![mac install mu](images/mac_install_mu.gif)
+
++ Run Mu by entering `mu` at the command prompt.
 
 ```bash
 mu
