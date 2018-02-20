@@ -64,7 +64,11 @@ mu
 
 The Mu Installer contains all you need to get started programming with Python.
 
-+ TODO - download the installer from here!!!!
++ Download the installer - TODO - this needs changing when there is a direct link from the Mu website.
+
+[Windows 64 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_12_master_3893ae7_64bit.exe)
+
+[Windows 32 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_14_master_3893ae7_32bit.exe)
 
 + Run the installer, click `Next` to start.
 
