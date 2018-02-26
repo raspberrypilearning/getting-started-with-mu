@@ -60,6 +60,13 @@ If you experience problems, have a look at [Using pip on Windows](https://projec
 mu
 ```
 
++ To create Desktop and Start menu shortcuts for mu, install and use the shortcut utility.
+
+```bash
+pip3 install shortcut
+shortcut mu
+```
+
 #### Pre-built installer
 
 The Mu Installer contains all you need to get started programming with Python.
@@ -108,6 +115,13 @@ pip3 install mu-editor
 mu
 ```
 
++ To create Desktop and Launcher shortcuts for mu, install and use the shortcut utility.
+
+```bash
+pip3 install shortcut
+shortcut mu
+```
+
 --- /collapse ---
 
 --- collapse ---
@@ -127,5 +141,12 @@ sudo pip3 install mu-editor
 ![linux install mu](images/linux_install_mu.gif)
 
 + Run Mu by entering `mu` at the command prompt.
+
++ To create Desktop and application menu shortcuts for mu, install and use the shortcut utility.
+
+```bash
+sudo pip3 install shortcut
+shortcut mu
+```
 
 --- /collapse ---
