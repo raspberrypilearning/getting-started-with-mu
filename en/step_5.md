@@ -24,16 +24,12 @@ Your program will run and the message `hello world` will be displayed.
 
 ![hello world](images/mu_code_step4.PNG)
 
-+ Stop you program by clicking `Stop`.
++ Stop your program by clicking `Stop`.
 
-### Multiple programs
+### Saving your code
 
-You can have multiple programs open at the same time using the tabs.
+Once your code has been saved and given a filename Mu will automatically save it for you.
 
-+ Click `New` to create a new program.
+Mu saves your code every few seconds and everytime you run it, so hopefully you will never loose any work and it also saves it each time your program is run.
 
-A second tab will appear where you can write you new program.
-
-![mu tabs](images/mu_tabs.PNG)
-
-You can go between your 2 programs by clicking on the tabs.
+You can, of course, also use the Save button any time you want.

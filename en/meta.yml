@@ -16,6 +16,7 @@ steps:
   - title: Installing Mu
   - title: Mu modes
   - title: Creating code with Mu
+  - title: Multiple programs
   - title: Code checking and debugging
   - title: Look and feel
   - title: What next  

@@ -34,9 +34,33 @@ title: Windows
 
 Mu can be installed on Windows using either:
 
-+ the command line and `pip` - recommended
-
 + a pre-built Installer - really useful if you dont have Python installed or permissions to use the command prompt
+
++ the command line and `pip` - recommended if you already have Python installed.
+
+#### Pre-built installer
+
+The Mu Installer contains all you need to get started programming with Python.
+
++ Download the installer - TODO - this needs changing when there is a direct link from the Mu website.
+
+[Windows 64 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_12_master_3893ae7_64bit.exe)
+
+[Windows 32 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_14_master_3893ae7_32bit.exe)
+
++ Run the installer, click `Next` to start.
+
++ Review and `Agree` to the license agreement.
+
++ Choose whether you want Mu to available for all users or just you and click `Next`.
+
++ Select an installation location and click `Next`.
+
++ Mu will now install, click `Finish` when complete.
+
+![windows install mu](images/windows_mu_installer.gif)
+
++ Run Mu by selecting `Mu` from the Start menu.
 
 #### Install using pip
 
@@ -66,30 +90,6 @@ mu
 pip3 install shortcut
 shortcut mu
 ```
-
-#### Pre-built installer
-
-The Mu Installer contains all you need to get started programming with Python.
-
-+ Download the installer - TODO - this needs changing when there is a direct link from the Mu website.
-
-[Windows 64 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_12_master_3893ae7_64bit.exe)
-
-[Windows 32 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_14_master_3893ae7_32bit.exe)
-
-+ Run the installer, click `Next` to start.
-
-+ Review and `Agree` to the license agreement.
-
-+ Choose whether you want Mu to available for all users or just you and click `Next`.
-
-+ Select an installation location and click `Next`.
-
-+ Mu will now install, click `Finish` when complete.
-
-![windows install mu](images/windows_mu_installer.gif)
-
-+ Run Mu by selecting `Mu` from the Start menu.
 
 --- /collapse ---
 
