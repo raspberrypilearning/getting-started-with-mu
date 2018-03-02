@@ -43,7 +43,7 @@ This program should count down from 5 to 1:
 
 ```python
 print("count down")
-for count in range(5,1,-1):
+for count in range(5 , 1, -1):
     print(count)
 ```
 
