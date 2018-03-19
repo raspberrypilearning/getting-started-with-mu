@@ -17,7 +17,7 @@ title: Raspberry Pi
 + Use the following command to install Mu
 
 ```bash
-sudo apt-get install mu-editor
+sudo apt-get install mu
 ``` 
 
 ![pi install mu](images/pi_install_mu.gif)
@@ -44,9 +44,9 @@ The Mu Installer contains all you need to get started programming with Python.
 
 + Download the installer - TODO - this needs changing when there is a direct link from the Mu website.
 
-[Windows 64 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_12_master_3893ae7_64bit.exe)
+[Windows 64 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-03-16_18_52_master_9b119d5_64bit.exe)
 
-[Windows 32 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-02-10_19_14_master_3893ae7_32bit.exe)
+[Windows 32 bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-03-16_18_56_master_9b119d5_32bit.exe)
 
 + Run the installer, click `Next` to start.
 
