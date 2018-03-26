@@ -2,4 +2,4 @@
 
 ### Hardware
 
-+ A Raspberry Pi, Windows PC, Apple Mac or Linux PC computer
++ A computer (Raspberry Pi or Windows/Mac/Linux computer)
