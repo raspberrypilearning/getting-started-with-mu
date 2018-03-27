@@ -1,6 +1,6 @@
 title: Getting started with Mu
 hero_image: images/banner.png
-description: Getting started with Mu
+description: Find out how to use the Mu code editor
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: false
@@ -23,4 +23,4 @@ steps:
 - title: Multiple programs
 - title: Code checking and debugging
 - title: Look and feel
-- title: What next
+- title: What next?
