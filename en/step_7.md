@@ -91,7 +91,7 @@ There is also a Debug Inspector window of the right side of the code, showing th
 
 The count variable will appear in the Debug Inspector.
 
-![mu debug inspector](images/mu_debugger2.png)
+![mu debug inspector](images/mu_debugger2.PNG)
 
 + Keep clicking **Step Over** to run through each line in the program. You will see that `count` never reaches `1`. This is because the `for` loop in the program does not reach `0`. This is what the program should look like:
 
