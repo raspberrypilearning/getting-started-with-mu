@@ -61,7 +61,7 @@ You can debug this program by putting a **break point** into the code and using 
 
 A break point marks a line within your program where the debugger will stop the program and wait.
 
-+ Add a break point to the code by clicking the line number 2.
++ Add a break point to the code by clicking the line number 2 on the right side of the code.
 
 A red circle will appear next to line 2.
 
