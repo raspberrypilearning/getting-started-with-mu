@@ -2,7 +2,7 @@
 
 ### Highlighting
 
-Mu will try and help you create working code by checking your code for errors and highlighting any it finds to allow you to debug.
+Mu will try and help you create working code by checking your code and highlighting errors it finds to allow you to correct them.
 
 The following line of code is incorrect:
 
