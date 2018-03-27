@@ -43,7 +43,7 @@ Mu has a debugger that allows you to step through your code line by line and loo
 
 ```python
 print("count down")
-for count in range(5 , 1, -1):
+for count in range(5, 1, -1):
     print(count)
 ```
 
