@@ -12,7 +12,7 @@ print("hello world)
 
 There is a `"` missing at the end of `"hello world`
 
-If you run this program you will receive an error message:
+If you run this program, you will receive an error message:
 
 ```
 File "c:\users\martin o'hanlon-lt\mu_code\hello.py", line 1
