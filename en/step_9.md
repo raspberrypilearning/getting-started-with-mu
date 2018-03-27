@@ -1,4 +1,4 @@
-## What next
+## What next?
 
 Check out the [Mu documentation](https://mu.readthedocs.io/) to learn more about this beginners' IDE.
 
