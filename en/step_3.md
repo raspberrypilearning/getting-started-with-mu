@@ -44,9 +44,9 @@ title: Windows
 
 Mu can be installed on Windows using either:
 
-+ A pre-built installer — really useful if Python isn't installed on your computer or your don't have permissions to use the command prompt
+1. A pre-built installer — really useful if Python isn't installed on your computer or your don't have permissions to use the command prompt
 
-+ The command line and `pip` — recommended if you already have Python installed
+2. The command line and `pip` — recommended if you already have Python installed
 
 #### Pre-built installer
 
@@ -54,7 +54,7 @@ The Mu Installer contains all you need to get started programming with Python.
 
 --- task ---
 
-+ Download the installer - TODO - this needs changing when there is a direct link from the Mu website.
+Download the installer - TODO - this needs changing when there is a direct link from the Mu website.
 
 [Windows 64-bit installer](https://s3-eu-west-2.amazonaws.com/mu-builds/windows/mu_2018-03-16_18_52_master_9b119d5_64bit.exe)
 

@@ -2,7 +2,9 @@
 
 The main area in Mu is where you will write your code.
 
-+ Enter this code into Mu to create a 'Hello world' program:
+--- task ---
+
+Enter this code into Mu to create a 'Hello world' program:
 
 ```python
 print("hello world")
@@ -10,21 +12,39 @@ print("hello world")
 
 ![code hello world](images/mu_code_step1.PNG)
 
-+ Click **Save** to save your program.
+--- /task ---
 
-+ Enter the file name `hello` and click **Save**.
+--- task ---
+
+Click **Save** to save your program.
+
+--- /task ---
+
+--- task ---
+
+Enter the file name `hello` and click **Save**.
 
 ![save file](images/mu_code_step2.PNG)
 
-+ Click **Run** to run your program.
+--- /task ---
+
+--- task ---
+
+Click **Run** to run your program.
 
 ![run](images/mu_code_step3.PNG)
+
+--- /task ---
 
 Your program will run, and the message `hello world` will be displayed.
 
 ![hello world](images/mu_code_step4.PNG)
 
-+ Stop your program by clicking  **Stop**.
+--- task ---
+
+Stop your program by clicking  **Stop**.
+
+--- /task ---
 
 ### Saving your code
 

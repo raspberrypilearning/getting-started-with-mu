@@ -6,7 +6,11 @@ When Mu first starts, you will be presented with the **Select Mode** screen.
 
 ![mu modes](images/mu_modes.PNG)
 
-+ Select the **Python 3** mode and click **OK**.
+--- task ---
+
+Select the **Python 3** mode and click **OK**.
+
+--- /task ---
 
 This will set up Mu for programming in Python 3. If you would like to know more about the different [Mu modes](https://mu.readthedocs.io/en/latest/modes.html), have a look at [mu.readthedocs.io](https://mu.readthedocs.io/en/latest/modes.html).
 
@@ -14,8 +18,17 @@ This will set up Mu for programming in Python 3. If you would like to know more 
 
 Mu will remember what mode you select, so you only have to select it once. If you want to change the mode later:
 
-+ Click on the current mode name in the bottom left-hand corder of the screen.
+--- task ---
+
+Click on the current mode name in the bottom left-hand corder of the screen.
 
 ![mu change mode](images/mu_change_mode.PNG)
 
-+ Select the mode you want from the menu, and click **OK**.
+--- /task ---
+
+--- task ---
+
+Select the mode you want from the menu, and click **OK**.
+
+--- /task ---
+

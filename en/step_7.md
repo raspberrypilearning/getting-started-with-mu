@@ -39,7 +39,9 @@ Unfortunately not all problems with code are syntax errors (which Mu usually rec
 
 Mu has a debugger that allows you to step through your code line by line and look at what it is doing. Let's try it out!
 
-- Copy and paste the following program into Mu. It is supposed to count down from 5 to 1.
+--- task ---
+
+Copy and paste the following program into Mu. It is supposed to count down from 5 to 1.
 
 ```python
 print("count down")
@@ -47,7 +49,11 @@ for count in range(5, 1, -1):
     print(count)
 ```
 
-- Now run it. You'll see that it only counts down to 2:
+--- /task ---
+
+--- task ---
+
+Now run it. You'll see that it only counts down to 2:
 
 ```
 count down
@@ -57,21 +63,31 @@ count down
 2
 ```
 
+--- /task ---
+
 You can debug this program by putting a **break point** into the code and using the **Debug** functions.
 
 A break point marks a line within your program where the debugger will stop the program and wait.
 
-+ Add a break point to the code by clicking the line number 2 on the right side of the code.
+--- task ---
+
+Add a break point to the code by clicking the line number 2 on the right side of the code.
 
 A red circle will appear next to line 2.
 
 ![mu breakpoint](images/mu_breakpoint.PNG)
 
-+ Click the **Debug** button to start the debugger.
+--- /task ---
+
+--- task ---
+
+Click the **Debug** button to start the debugger.
 
 The debugger will start, and your program will run until it gets to the break point.
 
 ![mu debugger](images/mu_debugger.PNG)
+
+--- /task ---
 
 The line of code highlighted is the code that will be run next.
 
@@ -87,13 +103,19 @@ There are four buttons in the menu that allow you to control the debugger:
 
 There is also a Debug Inspector window of the right side of the code, showing the current value of any variables in use.
 
-+ Click **Step Over** to run the next line of code.
+--- task ---
+
+Click **Step Over** to run the next line of code.
 
 The count variable will appear in the Debug Inspector.
 
 ![mu debug inspector](images/mu_debugger2.PNG)
 
-+ Keep clicking **Step Over** to run through each line in the program. You will see that `count` never reaches `1`. This is because the `for` loop in the program does not reach `0`. This is what the program should look like:
+--- /task ---
+
+--- task ---
+
+Keep clicking **Step Over** to run through each line in the program. You will see that `count` never reaches `1`. This is because the `for` loop in the program does not reach `0`. This is what the program should look like:
 
 ```python
 print("count down")
@@ -101,3 +123,4 @@ for count in range(5,0,-1):
     print(count)
 ```
 
+--- /task ---
