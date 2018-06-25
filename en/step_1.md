@@ -1,8 +1,8 @@
 ## Introduction
 
-You will install [Mu](https://mu.readthedocs.io/) and learn how to use it to create code.
-
 Mu is a very simple Python editor and IDE (integrated development environment) for beginners. It's designed to be as user-friendly and helpful as possible for new Python programmers.
+
+You will install [Mu](https://codewith.mu) and learn how to use it to create code.
 
 ![mu hello world](images/mu_hello_world.PNG)
 

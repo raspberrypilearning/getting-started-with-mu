@@ -1,13 +1,14 @@
-## Look and feel
+## What next?
 
-### Text size
+Check out the [Mu documentation](https://mu.readthedocs.io/) to learn more about this beginners' IDE.
 
-Using the **Zoom-in** and **Zoom-out** buttons, you can change the size of the code.
+Try out some Python projects using Mu:
 
-![zoom in](images/mu_zoom_in.PNG)
++ [Make a rock, paper, scissors game](https://codeclubprojects.org/en-GB/python/rock-paper-scissors/)
 
-### Themes
++ [Write a Python program telling people all about you](https://projects.raspberrypi.org/en/projects/about-me)
 
-Mu comes with a number of colour themes to suit different uses. Clicking the **Theme** button will cycle through the different themes.
-
-![mu dark theme](images/mu_theme_dark.PNG)
++ [Create a turtle racing game](https://projects.raspberrypi.org/en/projects/turtle-race)
+ 
++ [Exchange secret messages with a friend](https://projects.raspberrypi.org/en/projects/secret-messages)
+ 

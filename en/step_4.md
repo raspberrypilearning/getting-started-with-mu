@@ -1,34 +1,53 @@
-## Mu modes
+## Writing code in Mu
 
-Mu can be started in one of a number of modes; modes make working with Mu easier by only presenting the options most relevant to what you are planning to use Mu for.
-
-When Mu first starts, you will be presented with the **Select Mode** screen.
-
-![mu modes](images/mu_modes.PNG)
+The main area in Mu is where you will write your code.
 
 --- task ---
 
-Select the **Python 3** mode and click **OK**.
+Enter this code into Mu to create a 'Hello world' program:
 
---- /task ---
+```python
+print("hello world")
+```
 
-This will set up Mu for programming in Python 3. If you would like to know more about the different [Mu modes](https://mu.readthedocs.io/en/latest/modes.html), have a look at [mu.readthedocs.io](https://mu.readthedocs.io/en/latest/modes.html).
-
-### Change mode
-
-Mu will remember what mode you select, so you only have to select it once. If you want to change the mode later:
-
---- task ---
-
-Click on the current mode name in the bottom left-hand corder of the screen.
-
-![mu change mode](images/mu_change_mode.PNG)
+![code hello world](images/mu_code_step1.PNG)
 
 --- /task ---
 
 --- task ---
 
-Select the mode you want from the menu, and click **OK**.
+Click **Save** to save your program.
 
 --- /task ---
 
+--- task ---
+
+Enter the file name `hello` and click **Save**.
+
+![save file](images/mu_code_step2.PNG)
+
+--- /task ---
+
+--- task ---
+
+Click **Run** to run your program.
+
+![run](images/mu_code_step3.PNG)
+
+--- /task ---
+
+Your program will run, and the message `hello world` will be displayed.
+
+![hello world](images/mu_code_step4.PNG)
+
+--- task ---
+
+Stop your program by clicking  **Stop**.
+
+--- /task ---
+
+### Saving your code
+
+Once you have saved your code to a file and given it a name, Mu will automatically save it for you every few seconds, as well as every time you run it. This means that you will probably never lose any work!
+
+You can, of course, also use the **Save** button any time you want.
