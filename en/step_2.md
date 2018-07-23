@@ -10,18 +10,22 @@ title: Raspberry Pi
 
 --- task ---
 
-Open the **Recommended Software** application from the **Preferences** menu.
-
-![pi recommended software](images/pi-rec-software.png)
-
---- /task ---
-
-**Note:** if your version of Raspbian doesn't include the **Recommended Software** application, you should [update your Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/updating.md) by opening a terminal window and running the commands:
+[Update your Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/updating.md) by opening a terminal window and running the commands:
 
 ```bash
 sudo apt-get update
 sudo apt-get dist-upgrade
 ```
+
+--- /task ---
+
+--- task ---
+
+Open the **Recommended Software** application from the **Preferences** menu.
+
+![pi recommended software](images/pi-rec-software.png)
+
+--- /task ---
 
 --- task ---
 
