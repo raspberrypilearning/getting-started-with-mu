@@ -129,7 +129,7 @@ sudo pip3 install mu-editor
 
 --- task ---
 
-Run Mu by entering `mu` in the command prompt window.
+Run Mu by entering `mu-editor` in the command prompt window.
 
 --- /task ---
 
@@ -139,7 +139,7 @@ To create desktop and application menu shortcuts for Mu, install and use the sho
 
 ```bash
 sudo pip3 install shortcut
-shortcut mu
+shortcut mu-editor
 ```
 
 --- /task ---
@@ -184,10 +184,10 @@ If you have problems, have a look at our [_Using pip on Windows_](https://projec
 
 --- task ---
 
-Run Mu by entering `mu` in the command prompt window.
+Run Mu by entering `mu-editor` in the command prompt window.
 
 ```bash
-mu
+mu-editor
 ```
 
 --- /task ---
@@ -198,7 +198,7 @@ To create desktop and Start menu shortcuts for Mu, install and use the shortcut 
 
 ```bash
 pip3 install shortcut
-shortcut mu
+shortcut mu-editor
 ```
 
 --- /task ---
