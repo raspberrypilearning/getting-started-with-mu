@@ -63,7 +63,9 @@ count down
 2
 ```
 
-You can use Mu#s debugger to work out what is wrong.
+--- /task ---
+
+You can use Mu's debugger to work out what is wrong.
 
 --- task ---
 
@@ -77,7 +79,7 @@ The debugger will start and the program will stop on the first line of code.
 
 There are four buttons in the menu that allow you to control the debugger:
 
-+ **Continue**: starts your program again, which will then run until it hits another break point or finishes.
++ **Continue**: starts your program again, which will then run until it hits a break point or finishes.
 
 + **Step Over**: runs the next line of code in your program
 

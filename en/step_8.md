@@ -1,6 +1,6 @@
 ## What next?
 
-Check out the [Mu documentation](https://mu.readthedocs.io/) to learn more about this beginners' IDE.
+Check out the [Mu website](https://codewith.mu) and the [tutorials](https://codewith.mu/en/tutorials/) to learn more about this beginners' IDE.
 
 Try out some Python projects using Mu:
 

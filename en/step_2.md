@@ -59,7 +59,7 @@ The Mu Installer contains all you need to get started programming with Python.
 
 --- task ---
 
-Download the windows installer from the (codewith.mu/en/download)[https://codewith.mu/en/download] page and follow the (Mu install instructions for Windows)[https://codewith.mu/en/howto/install_windows].
+Download the windows installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page and follow the [Mu install instructions for Windows](https://codewith.mu/en/howto/install_windows).
 
 ![download mu](images/download_mu.PNG)
 
@@ -85,7 +85,7 @@ title: macOS
 
 --- task ---
 
-Download the windows installer from the (codewith.mu/en/download)[https://codewith.mu/en/download] page and follow the (Mu install instructions for macOS)[https://codewith.mu/en/howto/install_macos].
+Download the windows installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page and follow the [Mu install instructions for macOS](https://codewith.mu/en/howto/install_macos).
 
 ![download mu](images/download_mu.PNG)
 
@@ -176,7 +176,7 @@ pip3 install mu-editor
 
 ![windows pip install mu](images/windows_install_mu.gif)
 
-![macos pip install mu](images/macos_install_mu.gif)
+![macos pip install mu](images/mac_install_mu.gif)
 
 --- /task ---
 
@@ -202,7 +202,5 @@ shortcut mu
 ```
 
 --- /task ---
-
---- /collapse ---
 
 --- /collapse ---
