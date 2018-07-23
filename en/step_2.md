@@ -155,7 +155,7 @@ shortcut mu-editor
 --- collapse ---
 
 ---
-title: Advanced: install Mu on Windows/macOS using pip
+title: "Advanced: install Mu on Windows/macOS using pip"
 ---
 
 If you already have Python 3 installed, you can use `pip` to install Mu.
