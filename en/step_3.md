@@ -12,7 +12,7 @@ Select the **Python 3** mode and click **OK**.
 
 --- /task ---
 
-This will set up Mu for programming in Python 3. If you would like to know more about the different [Mu modes](https://codewith.mu/en/tutorials/1.0/modes), have a look at [mu.readthedocs.io](https://codewith.mu/en/tutorials/1.0/modes).
+This will set up Mu for programming in Python 3. If you would like to know more about the different [Mu modes](https://codewith.mu/en/tutorials/1.0/modes), have a look at [codewith.mu](https://codewith.mu/en/tutorials/1.0/modes).
 
 ### Change mode
 
