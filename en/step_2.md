@@ -1,6 +1,6 @@
 ## Installing Mu
 
-[Mu](https://codewith.mu) will work on most operating systems and you should follow the installation instructions for your operating system.
+[Mu](https://codewith.mu) will work on most operating systems, and you should follow the installation instructions for your operating system.
 
 --- collapse ---
 
@@ -16,7 +16,7 @@ Open the **Recommended Software** application from the **Preferences** menu.
 
 --- /task ---
 
-**Note:** if your version of Raspbian doesn't include the **Recommended Software** application you should [update your Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/updating.md) by opening a terminal and running the commands:
+**Note:** if your version of Raspbian doesn't include the **Recommended Software** application, you should [update your Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/updating.md) by opening a terminal window and running the commands:
 
 ```bash
 sudo apt-get update
@@ -33,7 +33,7 @@ Select Mu from the list of applications to install.
 
 --- task ---
 
-Click **OK** to start the install.
+Click **OK** to start the installation process.
 
 ![pi installing mu](images/pi-rec-software-install.png)
 
@@ -41,7 +41,7 @@ Click **OK** to start the install.
 
 --- task ---
 
-Start Mu by going to the menu and selecting **Programming** > **Mu** from the menu.
+Start Mu by going to the menu and selecting **Programming** > **Mu**.
 
 ![pi open mu](images/pi_open_mu.PNG)
 
@@ -55,11 +55,11 @@ Start Mu by going to the menu and selecting **Programming** > **Mu** from the me
 title: Windows
 ---
 
-The Mu Installer contains all you need to get started programming with Python.
+The Mu installer is all you need to get Mu running on your PC and get started with Python programming.
 
 --- task ---
 
-Download the windows installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page and follow the [Mu install instructions for Windows](https://codewith.mu/en/howto/install_windows).
+Download the Windows installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page, and follow the [Mu install instructions for Windows](https://codewith.mu/en/howto/install_windows).
 
 ![download mu](images/download_mu.PNG)
 
@@ -69,7 +69,7 @@ Download the windows installer from the [codewith.mu/en/download](https://codewi
 
 --- task ---
 
-Start Mu by opening it from the start menu.
+Start Mu by opening it from the Start menu.
 
 ![windows start mu](images/windows_start_mu.png)
 
@@ -83,9 +83,11 @@ Start Mu by opening it from the start menu.
 title: macOS
 ---
 
+The Mu installer is all you need to get Mu running on your Mac and get started with Python programming.
+
 --- task ---
 
-Download the windows installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page and follow the [Mu install instructions for macOS](https://codewith.mu/en/howto/install_macos).
+Download the macOS installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page and follow the [Mu install instructions for macOS](https://codewith.mu/en/howto/install_macos).
 
 ![download mu](images/download_mu.PNG)
 
@@ -95,7 +97,7 @@ Download the windows installer from the [codewith.mu/en/download](https://codewi
 
 --- task ---
 
-Start Mu by opening it from the applications menu.
+Start Mu by opening it from the Applications menu.
 
 ![macos start mu](images/macos_start_mu.png)
 
@@ -129,13 +131,13 @@ sudo pip3 install mu-editor
 
 --- task ---
 
-Run Mu by entering `mu-editor` in the command prompt window.
+Run Mu by entering `mu-editor` into a terminal window.
 
 --- /task ---
 
 --- task ---
 
-To create desktop and application menu shortcuts for Mu, install and use the shortcut utility using these commands:
+To create desktop and application menu shortcuts for Mu, install and run the shortcut utility using these terminal commands:
 
 ```bash
 sudo pip3 install shortcut
@@ -149,20 +151,20 @@ shortcut mu-editor
 --- collapse ---
 
 ---
-title: Advanced - Windows / macOS install using pip
+title: Advanced: install Mu on Windows/macOS using pip
 ---
 
-If you already have Python 3 installed you can use `pip` to install Mu.
+If you already have Python 3 installed, you can use `pip` to install Mu.
 
 --- task ---
 
 ### Windows
 
-Open a command prompt by clicking **Start** > **Windows System** > **Command Prompt**, or typing 'command' into the Start menu's search bar.
+Click **Start** > **Windows System** > **Command Prompt**, or type 'command' into the Start menu's search bar, to find the application and open a command prompt window.
 
-### MacOS
+### macOS
 
-Open a terminal by clicking **Applications** > **Utilities** > **Terminal**, or type ‘terminal’ into Spotlight Search.
+Click **Applications** > **Utilities** > **Terminal**, or type ‘terminal’ into Spotlight Search, to find the application and open a terminal window.
 
 --- /task ---
 
@@ -180,11 +182,11 @@ pip3 install mu-editor
 
 --- /task ---
 
-If you have problems, have a look at our [_Using pip on Windows_](https://projects.raspberrypi.org/en/projects/using-pip-on-windows) resource.
+If you have problems, have a look at our [Using pip on Windows](https://projects.raspberrypi.org/en/projects/using-pip-on-windows) guide.
 
 --- task ---
 
-Run Mu by entering `mu-editor` in the command prompt window.
+Run Mu by running `mu-editor` in a command prompt/terminal window.
 
 ```bash
 mu-editor
@@ -194,7 +196,7 @@ mu-editor
 
 --- task ---
 
-To create desktop and Start menu shortcuts for Mu, install and use the shortcut utility by entering the following into the command prompt:
+To create shortcuts for Mu, install and run the shortcut utility by entering the following into the command prompt/terminal window:
 
 ```bash
 pip3 install shortcut
