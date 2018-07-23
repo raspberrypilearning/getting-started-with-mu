@@ -2,7 +2,7 @@
 
 ### Highlighting
 
-Mu will try and help you create working code by checking your code and highlighting errors it finds to allow you to correct them.
+Mu will try and help you create working code by checking your program and highlighting errors it finds to allow you to correct them.
 
 The following line of code is incorrect:
 
@@ -21,23 +21,23 @@ File "c:\users\martin o'hanlon-lt\mu_code\hello.py", line 1
 SyntaxError: EOL while scanning string literal
 ```
 
-Mu will highlight code which it recognises as incorrect.
+Mu will highlight code that it recognises as incorrect.
 
 ![mu highlights error](images/mu_error.PNG)
 
 ### Checking
 
-At any point while you're coding, you can also click the **Check** button to ask Mu to check your code for errors and provide advice.
+At any point while you're coding, you can also get help advice from Mu without running your code: click the **Check** button to ask Mu to check your code for errors.
 
 ![mu code check](images/mu_check.PNG)
 
-When you have fixed an error, click **Check** again to see if the problem disappears.
+When you have fixed an error, click **Check** again to see if the problem has disappeared.
 
 ### Debugging
 
-Unfortunately not all problems with code are syntax errors (which Mu usually recognises). Some errors in your code will be **bugs**, meaning your program runs fine, but it doesn't do what you want it to do.
+Unfortunately, not all problems with code are syntax errors (which Mu usually recognises). Some errors in your code will be **bugs**, meaning your program runs fine, but it doesn't do what you want it to do.
 
-Mu has a debugger that allows you to step through your code line by line and look at what it is doing. Let's try it out!
+Mu has a debugger that allows you to step through your code line by line and look at what each line is doing. Let's try it out!
 
 --- task ---
 
@@ -79,15 +79,15 @@ The debugger will start and the program will stop on the first line of code.
 
 There are four buttons in the menu that allow you to control the debugger:
 
-+ **Continue**: starts your program again, which will then run until it hits a break point or finishes.
++ **Continue**: starts your program again, and it will then run until it hits a break point or finishes.
 
 + **Step Over**: runs the next line of code in your program
 
-+ **Step In**: if the next line of code is a function, it will 'step in' the function and run it
++ **Step In**: if the next line of code is a function, it will 'step into' the function and run it
 
-+ **Step Out**: if the program is currently running a function, it will 'step out' of the function and return to the line of code which called the function.
++ **Step Out**: if the program is currently running a function, it will 'step out' of the function and return to the line of code that called the function.
 
-There is also a Debug Inspector window of the right side of the code, showing the current value of any variables in use.
+There is also a Debug Inspector window on the right side of the code, showing the current value of any variables in use.
 
 --- task ---
 
