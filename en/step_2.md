@@ -16,6 +16,13 @@ Open the **Recommended Software** application from the **Preferences** menu.
 
 --- /task ---
 
+**Note:** if your version of Raspbian doesn't include the **Recommended Software** application you should [update your Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/updating.md) by opening a terminal and running the commands:
+
+```bash
+sudo apt-get update
+sudo apt-get dist-upgrade
+```
+
 --- task ---
 
 Select Mu from the list of applications to install.
@@ -31,15 +38,6 @@ Click **OK** to start the install.
 ![pi installing mu](images/pi-rec-software-install.png)
 
 --- /task ---
-
-**Note:** if your version of Raspbian doesn't include the **Recommended Software** application you should [update your Raspberry Pi](https://www.raspberrypi.org/documentation/raspbian/updating.md) by opening a terminal and running the commands:
-
-```bash
-sudo apt-get update
-sudo apt-get dist-upgrade
-```
-
-![pi install mu](images/pi_install_mu.gif)
 
 --- task ---
 
@@ -61,37 +59,23 @@ The Mu Installer contains all you need to get started programming with Python.
 
 --- task ---
 
-Download the windows installer from the [codewith.mu/en/download](https://codewith.mu/en/download) page.
+Download the windows installer from the (codewith.mu/en/download)[https://codewith.mu/en/download] page and follow the (Mu install instructions for Windows)[https://codewith.mu/en/howto/install_windows].
 
-![windows download mu](images/windows_download_mu.PNG)
+![download mu](images/download_mu.PNG)
 
-Select either the 32 bit or 64 bit version depending on your computer.
-
-**Note:** Most modern computers will be 64 bit, but if you dont know download the 32 bit version which will work on either 32 or 64 bit computers.
+![mu windows install instructions](images/windows_install_instructions.PNG)
 
 --- /task ---
 
 --- task ---
 
-Run the installer, by opening your **Downloads** folder and double clicking it.
+Start Mu by opening it from the start menu.
 
-![windows install mu](images/windows_mu_installer.gif)
-
-1. Click **Next** to start.
-1. Review the license agreement, and then click **Agree**.
-1. Choose whether you want Mu to be available for all users or just you, and click **Next**.
-1. Select an installation location and click **Next**.
-1. Mu will now install — click **Finish** when the process is complete.
+![windows start mu](images/windows_start_mu.png)
 
 --- /task ---
 
---- task ---
-
-Run Mu by selecting **Mu** from the Start menu.
-
-![windows open mu](images/window_open_mu.PNG)
-
---- /task ---
+--- /collapse ---
 
 --- collapse ---
 
@@ -101,40 +85,19 @@ title: macOS
 
 --- task ---
 
-Open a terminal by clicking **Applications** > **Utilities** > **Terminal**, or type 'terminal' into Spotlight Search.
+Download the windows installer from the (codewith.mu/en/download)[https://codewith.mu/en/download] page and follow the (Mu install instructions for macOS)[https://codewith.mu/en/howto/install_macos].
+
+![download mu](images/download_mu.PNG)
+
+![mu macos install instructions](images/macos_install_instructions.PNG)
 
 --- /task ---
 
 --- task ---
 
-Enter this command to install Mu:
+Start Mu by opening it from the applications menu.
 
-```bash
-pip3 install mu-editor
-```
-
-![mac install mu](images/mac_install_mu.gif)
-
---- /task ---
-
---- task ---
-
-Run Mu by entering `mu` into the terminal window.
-
-```bash
-mu
-```
-
---- /task ---
-
---- task ---
-
-To create desktop and Launcher shortcuts for mu, install and use the shortcut utility using these commands:
-
-```bash
-pip3 install shortcut
-shortcut mu
-```
+![macos start mu](images/macos_start_mu.png)
 
 --- /task ---
 
@@ -186,25 +149,26 @@ shortcut mu
 --- collapse ---
 
 ---
-title: Advanced - Install using pip
+title: Advanced - Windows / macOS install using pip
 ---
 
-content
-
-
-#### Install using pip
+If you already have Python 3 installed you can use `pip` to install Mu.
 
 --- task ---
 
+### Windows
+
 Open a command prompt by clicking **Start** > **Windows System** > **Command Prompt**, or typing 'command' into the Start menu's search bar.
 
-![windows command prompt](images/windows_command_prompt_app.PNG)
+### MacOS
+
+Open a terminal by clicking **Applications** > **Utilities** > **Terminal**, or type ‘terminal’ into Spotlight Search.
 
 --- /task ---
 
 --- task ---
 
-Enter this command to install the Mu module:
+Enter this command to install the Mu editor:
 
 ```bash
 pip3 install mu-editor
@@ -212,13 +176,15 @@ pip3 install mu-editor
 
 ![windows pip install mu](images/windows_install_mu.gif)
 
+![macos pip install mu](images/macos_install_mu.gif)
+
 --- /task ---
 
 If you have problems, have a look at our [_Using pip on Windows_](https://projects.raspberrypi.org/en/projects/using-pip-on-windows) resource.
 
 --- task ---
 
-Run Mu by entering `mu` into the command prompt.
+Run Mu by entering `mu` in the command prompt window.
 
 ```bash
 mu
@@ -238,6 +204,5 @@ shortcut mu
 --- /task ---
 
 --- /collapse ---
-
 
 --- /collapse ---

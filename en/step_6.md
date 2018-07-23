@@ -63,33 +63,17 @@ count down
 2
 ```
 
---- /task ---
-
-You can debug this program by putting a **break point** into the code and using the **Debug** functions.
-
-A break point marks a line within your program where the debugger will stop the program and wait.
-
---- task ---
-
-Add a break point to the code by clicking the line number 2 on the right side of the code.
-
-A red circle will appear next to line 2.
-
-![mu breakpoint](images/mu_breakpoint.PNG)
-
---- /task ---
+You can use Mu#s debugger to work out what is wrong.
 
 --- task ---
 
 Click the **Debug** button to start the debugger.
 
-The debugger will start, and your program will run until it gets to the break point.
+The debugger will start and the program will stop on the first line of code.
 
-![mu debugger](images/mu_debugger.PNG)
+![mu start debugger](images/mu_debug1.PNG)
 
 --- /task ---
-
-The line of code highlighted is the code that will be run next.
 
 There are four buttons in the menu that allow you to control the debugger:
 
@@ -105,11 +89,21 @@ There is also a Debug Inspector window of the right side of the code, showing th
 
 --- task ---
 
-Click **Step Over** to run the next line of code.
+Click **Step Over** to run the first line of code.
+
+The "count down" message will appear.
+
+![mu debug count down](images/mu_debug2.PNG)
+
+--- /task ---
+
+--- task ---
+
+Click **Step Over** again to run the next line of code.
 
 The count variable will appear in the Debug Inspector.
 
-![mu debug inspector](images/mu_debugger2.PNG)
+![mu debug count variable](images/mu_debug3_annotated.PNG)
 
 --- /task ---
 

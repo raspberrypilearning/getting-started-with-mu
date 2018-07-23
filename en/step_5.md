@@ -8,7 +8,7 @@ Click **New** to create a new program.
 
 A second tab will appear where you can write you new program:
 
-![mu tabs](images/mu_tabs.PNG)
+![mu tabs](images/mu_tabs_annotated.PNG)
 
 --- /task ---
 
