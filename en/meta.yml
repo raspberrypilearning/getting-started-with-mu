@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Find out how to use the Mu code editor
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
