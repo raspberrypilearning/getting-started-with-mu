@@ -18,6 +18,6 @@ You will install [Mu](https://codewith.mu) and learn how to use it to create cod
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/getting-started-wth-mu/print).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/getting-started-with-mu/print).
 
 --- /no-print ---
