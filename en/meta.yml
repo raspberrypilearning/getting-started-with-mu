@@ -1,7 +1,8 @@
+---
 title: Getting started with Mu
 hero_image: images/banner.png
 description: Find out how to use the Mu code editor
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -14,12 +15,16 @@ hardware: ''
 software: python
 version: 4
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: Installing Mu
 - title: Mu modes
+  completion:
+  - engaged
 - title: Creating code with Mu
 - title: Multiple programs
 - title: Code checking and debugging
 - title: Look and feel
+  completion:
+  - internal
 - title: What next?
