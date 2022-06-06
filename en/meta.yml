@@ -17,12 +17,14 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Installing Mu
 - title: Mu modes
+  completion:
+  - engaged
 - title: Creating code with Mu
 - title: Multiple programs
 - title: Code checking and debugging
-  completion: internal
 - title: Look and feel
+  completion:
+  - internal
 - title: What next?
